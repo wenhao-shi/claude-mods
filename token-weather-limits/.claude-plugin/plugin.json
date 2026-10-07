@@ -1,0 +1,11 @@
+{
+  "name": "token-weather-limits",
+  "version": "0.3.0",
+  "description": "Neon pills above the prompt: context weather, context used, tokens and cost, and the 5-hour and 7-day usage limits with their reset times.",
+  "author": {
+    "name": "wenhao-shi"
+  },
+  "homepage": "https://github.com/wenhao-shi/claude-mods",
+  "repository": "https://github.com/wenhao-shi/claude-mods",
+  "license": "Apache-2.0"
+}

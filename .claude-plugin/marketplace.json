@@ -1,0 +1,12 @@
+{
+  "name": "wenhao-shi-mods",
+  "owner": { "name": "wenhao-shi" },
+  "metadata": { "description": "Claude Code mods by wenhao-shi." },
+  "plugins": [
+    {
+      "name": "token-weather-limits",
+      "source": "./token-weather-limits",
+      "description": "Neon pills above the prompt for context, tokens and cost, and the 5-hour and 7-day usage limits."
+    }
+  ]
+}
